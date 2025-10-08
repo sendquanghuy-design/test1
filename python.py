@@ -3,8 +3,8 @@ import pandas as pd
 from google import genai
 from google.genai.errors import APIError
 from datetime import datetime
-import plotly.graph_objects as go	plotly
-import plotly.express as px	plotly
+import plotly.graph_objects as go	
+import plotly.express as px	
 
 # --- Cấu hình Trang Streamlit ---
 st.set_page_config(
