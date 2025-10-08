@@ -15,5 +15,4 @@ openpyxl
 # THÊM THƯ VIỆN NÀY ĐỂ GIẢI QUYẾT LỖI to_markdown()
 tabulate
 
-import plotly.graph_objects as go	plotly
-import plotly.express as px	plotly
+
