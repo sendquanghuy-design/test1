@@ -14,5 +14,6 @@ openpyxl
 
 # THÊM THƯ VIỆN NÀY ĐỂ GIẢI QUYẾT LỖI to_markdown()
 tabulate
-
+#gọi plotly
+plotly
 
